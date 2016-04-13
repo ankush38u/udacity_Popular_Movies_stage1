@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="network_problem_message">Network Problem, Please try again Later.</string>
+    <string name="pd_message">Loading..</string>
+    <string name="moviedb_api_key">Enter key here</string>
+    <string name="synopsis_title">Synopsis</string>
+    <string name="rating_title">Rating</string>
+    <string name="release_date_title">Release Date</string>
+    <string name="activity_image_trans">custom_share_element_transition</string>
+</resources>
